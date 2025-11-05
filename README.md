@@ -19,11 +19,17 @@ project/
 ```
 
 ## 주요 기능
-- [📝 회의록, CPO, 멘토 미팅 일지](https://www.notion.so/29dfef49d8d5808bbf8ac9daf51049ac?v=29dfef49d8d58107ab8b000c5ce0b1ba)
+- [📝 회의록, CPO, 멘토 미팅 일지 모음집](https://www.notion.so/29dfef49d8d5808bbf8ac9daf51049ac?v=29dfef49d8d58107ab8b000c5ce0b1ba)
+
 - [📚 프로젝트 문서화](https://github.com/skRookies2team/002.projectdoc/tree/main/docs/project-docs)
+
 - [🔄 Git 기반 버전 관리](https://github.com/skRookies2team)
+
 - 📋 이슈 및 작업 추적
-- [📊 칸반 보드 (GitHub Projects)를 통한 작업 관리](https://github.com/orgs/skRookies2team/projects)
+
+- [스크럼일지](https://docs.google.com/spreadsheets/d/1YS4x4WRWZ3d5noXlE6DWmHkJFSJDyHFAtpKdt_6kHb0/edit?pli=1&gid=485940834#gid=485940834)
+- [📊 칸반 보드 (JIRA)를 통한 작업 관리](https://pmatal.atlassian.net/jira/software/projects/SCRUM/boards/1?atlOrigin=eyJpIjoiM2ZlZDMxYzI2ZGVmNDk4ODg5ZDJiOTI2NTk1ZDBjNWMiLCJwIjoiaiJ9)
+
 
 ## 시작하기
 
