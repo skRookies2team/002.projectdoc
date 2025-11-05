@@ -19,8 +19,7 @@ project/
 ```
 
 ## 주요 기능
-- [📝 체계적인 회의록 관리](https://www.notion.so/29dfef49d8d5808bbf8ac9daf51049ac?v=29dfef49d8d58107ab8b000c5ce0b1ba)
-- [👨‍🏫 멘토링 일지 추적](https://github.com/skRookies2team/002.projectdoc/tree/main/docs/mentoring-logs)
+- [📝 회의록, CPO, 멘토 미팅 일지](https://www.notion.so/29dfef49d8d5808bbf8ac9daf51049ac?v=29dfef49d8d58107ab8b000c5ce0b1ba)
 - [📚 프로젝트 문서화](https://github.com/skRookies2team/002.projectdoc/tree/main/docs/project-docs)
 - [🔄 Git 기반 버전 관리](https://github.com/skRookies2team)
 - 📋 이슈 및 작업 추적
