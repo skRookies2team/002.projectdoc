@@ -8,7 +8,7 @@
 project/
 ├── README.md                 # 프로젝트 메인 설명서
 ├── docs/                     # 프로젝트 문서
-│   ├── meeting-notes/        # 회의록
+│   ├── CTO-meeting-notes/    # CTO님과 회의록
 │   ├── mentoring-logs/       # 멘토링 일지
 │   ├── project-docs/         # 프로젝트 관련 문서
 │   └── templates/            # 문서 템플릿
